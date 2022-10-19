@@ -23,8 +23,12 @@
 
 ## PROJECT TREE 🎉
 
+*service architecture*<br/>
+<!-- 여기수정 -->
+
 *service flow*<br/>
 ![serviceflow](https://user-images.githubusercontent.com/98632452/174228495-9e8228ad-7b68-4211-866d-3831dd8f43e6.png)
+<!-- 여기수정 -->
 
 *data table*
 ![datatable](https://user-images.githubusercontent.com/98632452/174233328-c7fa7dc4-4feb-49f8-adbe-be82edef33a4.png)
@@ -34,7 +38,7 @@
 
 *tree*<br/>
 ![tree](https://user-images.githubusercontent.com/98632452/174227908-51c696ee-dbf2-48d5-8286-0f5acfa33d53.png)
-
+<!-- 여기수정 (도커컴포즈 바탕으로)-->
 
 ---
 ## 일기 작성 📹
@@ -124,6 +128,11 @@
 - MySQL
 - REACT
 - Next.js
+- SPARK
+- DOCKER
+- HADOOP
+- JENKINS
+- KAFKA
 
 `Prerequisite`
 JDBC, lombok, jackson.core, react-chartjs-2, styled-components, next-images
