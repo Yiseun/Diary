@@ -24,7 +24,8 @@
 ## PROJECT TREE 🎉
 
 *service architecture*<br/>
-<!-- 여기수정 -->
+![Untitled (1)](https://user-images.githubusercontent.com/92356170/199652001-9559a6ff-2075-40ca-8452-50a6161165d9.jpg)
+
 
 *service flow*<br/>
 ![serviceflow](https://user-images.githubusercontent.com/98632452/174228495-9e8228ad-7b68-4211-866d-3831dd8f43e6.png)
